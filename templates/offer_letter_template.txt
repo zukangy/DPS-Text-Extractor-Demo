@@ -1,0 +1,20 @@
+Offer Letter
+
+Dear {Full Legal Name},
+
+We are pleased to offer you the position of {Position Title} at our company. Your reporting manager will be {Reporting Manager}.
+
+Position Details:
+- Title: {Position Title}
+- Expected Salary/Hourly Rate (USD): {Expected Salary/Hourly Rate (USD)}
+
+Personal Information:
+- Full Legal Name: {Full Legal Name}
+- Date of Birth: {Date of Birth}
+- Phone Number: {Phone Number}
+
+Please review the terms and let us know if you have any questions. We look forward to having you on our team!
+
+Sincerely,
+[Your Company Name]
+[Your Contact Information]
