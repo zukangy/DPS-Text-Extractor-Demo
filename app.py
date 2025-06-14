@@ -6,6 +6,7 @@ import os
 from docx import Document
 from field_extractor import extract_text, parse_fields, field_names
 
+
 def get_available_templates():
     """Get list of available templates from the templates directory."""
     templates_dir = "templates"
@@ -49,8 +50,9 @@ def create_word_document(content, output_path):
     doc.save(output_path)
 
 def main():
-    st.title("Offer Letter Generator")
-    st.write("Upload a survey PDF and select a template to generate an offer letter.")
+    st.image("logo/logo1.png")
+    st.title("Smart Legal Document Generator")
+    st.write("Upload a survey PDF and select a template to generate the document.")
 
     # Template selection
     available_templates = get_available_templates()
